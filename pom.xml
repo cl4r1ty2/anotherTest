@@ -22,6 +22,12 @@
         <artifactId>spring-security-core</artifactId>
         <version>3.0.0</version>
         </dependency>	
+
+ <dependency>
+        <groupId>com.sourceclear.headlines</groupId>
+        <artifactId>headlines-parent</artifactId>
+        <version>0.1.7-SNAPSHOT</version>
+        </dependency>
 	
 		<!--SCL-294 -->
 		<dependency>
