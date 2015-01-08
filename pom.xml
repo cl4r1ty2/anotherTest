@@ -24,10 +24,10 @@
         </dependency>	
         
         <dependency>
--			<groupId>org.apache.solr</groupId>
--			<artifactId>solr-core</artifactId>
--			<version>4.5.1</version>
--		</dependency>
+-		<groupId>org.apache.solr</groupId>
+-		<artifactId>solr-core</artifactId>
+-		<version>4.5.1</version>
+-	</dependency>
 
  <dependency>
         <groupId>com.sourceclear.headlines</groupId>
